@@ -7,7 +7,7 @@
 #
 # Code released under BSD Two-Clause license
 #
-# Copyright (c) 2018 University College London. 
+# Copyright (c) 2019 University College London. 
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

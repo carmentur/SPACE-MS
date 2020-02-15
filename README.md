@@ -29,3 +29,14 @@ The following tools are available:
 * `run_3dvario.py`: to perform 3D variogram analysis of a 3D NIFTI file storing a lesion mask;
 * ... more tools coming soon - stay tuned!
 
+
+# If you use SPACE-MS
+If you use SPACE-MS tools, please cite our workl:
+
+"Linking macrostructural and microstructural damage in early MS: a geostatistical and diffusion MRI study". Carmen Tur, Robert Marschallinger, Ferran Prados, Sara Collorone, Daniel R Altmann, Sébastien Ourselin, Claudia A. M. Gandini Wheeler-Kingshott and Olga Ciccarelli; Proceedings of the 2018 meeting of the ISMRM, p. 0090.
+
+# License
+SPACE-MS tools are distributed under the BSD 2-Clause License, Copyright (c) 2020, University College London. All rights reserved (license at this [link](https://github.com/carmentur/SPACE-MS/blob/master/LICENSE.txt)).
+
+# Acknowledgements
+2015 European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS) post-doctoral research fellowship; UK Multiple Sclerosis Society (grants 892/08 and 77/2017). The help of Dr [Francesco Grussu](http://github.com/fragrussu) is also acknowledged. 

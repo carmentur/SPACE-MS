@@ -26,7 +26,7 @@ python </PATH/TO/TOOL> --help
 # SPACE-MS: list of tools
 
 The following tools are available:
-* `run_3dvario.py`: to perform 3D variogram analysis of a 3D NIFTI file storing a lesion mask;
+* [`run_3dvario.py`](https://github.com/carmentur/SPACE-MS/blob/master/spacetools/run_3dvario.py): to perform 3D variogram analysis of a 3D NIFTI file storing a lesion mask;
 * ... more tools coming soon - stay tuned!
 
 

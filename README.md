@@ -17,9 +17,7 @@ To get SPACE-MS (Linux or MacOs):
 git clone https://github.com/carmentur/SPACE-MS.git 
 ```
 3. You will now have the SPACE-MS tools ready for you in the `SPACE-MS/spacetools` folder. 
-```
-./MyRelax/myrelax
-```
+
 4. To check how to use a tool, simply print its manual by typing in your terminal:
 ```
 python </PATH/TO/TOOL> --help

@@ -30,8 +30,8 @@ The following tools are available:
 * ... more tools coming soon - stay tuned!
 
 
-# If you use SPACE-MS
-If you use SPACE-MS tools, please cite our workl:
+# Do you use SPACE-MS?
+If you use SPACE-MS tools, please cite us:
 
 "Linking macrostructural and microstructural damage in early MS: a geostatistical and diffusion MRI study". Carmen Tur, Robert Marschallinger, Ferran Prados, Sara Collorone, Daniel R Altmann, Sébastien Ourselin, Claudia A. M. Gandini Wheeler-Kingshott and Olga Ciccarelli; Proceedings of the 2018 meeting of the ISMRM, p. 0090.
 

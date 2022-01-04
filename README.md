@@ -31,12 +31,17 @@ The following tools are available:
 
 
 # Do you use SPACE-MS?
-If you use SPACE-MS tools, please cite us:
+If you use SPACE-MS tools, please cite our work as detailed below.
 
-"Linking macrostructural and microstructural damage in early MS: a geostatistical and diffusion MRI study". Carmen Tur, Robert Marschallinger, Ferran Prados, Sara Collorone, Daniel R Altmann, Sébastien Ourselin, Claudia A. M. Gandini Wheeler-Kingshott and Olga Ciccarelli; Proceedings of the 2018 meeting of the ISMRM, p. 0090.
+* If you use [`run_sspace_ms.py`](https://github.com/carmentur/SPACE-MS/blob/master/spacetools/run_sspace_ms.py), please cite "Spatial patterns of brain lesions assessed through covariance estimations of lesional voxels in multiple sclerosis: the SPACE-MS technique". Carmen Tur et al, NeuroImage: Clinical 2022, 33: 102904, doi: [10.1016/j.nicl.2021.102904](https://doi.org/10.1016/j.nicl.2021.102904).
+
+* If you use [`run_3dvario.py`](https://github.com/carmentur/SPACE-MS/blob/master/spacetools/run_3dvario.py), please cite "Linking macrostructural and microstructural damage in early MS: a geostatistical and diffusion MRI study". Carmen Tur, Robert Marschallinger, Ferran Prados, Sara Collorone, Daniel R Altmann, Sébastien Ourselin, Claudia A. M. Gandini Wheeler-Kingshott and Olga Ciccarelli; Proceedings of the 2018 meeting of the ISMRM, p. 0090.
+
 
 # License
 SPACE-MS tools are distributed under the BSD 2-Clause License, Copyright (c) 2020, University College London. All rights reserved (license at this [link](https://github.com/carmentur/SPACE-MS/blob/master/LICENSE.txt)).
 
+**The use of SPACE-MS MUST also comply with the individual licenses of all of its dependencies.**
+
 # Acknowledgements
-2015 European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS) post-doctoral research fellowship; UK Multiple Sclerosis Society (grants 892/08 and 77/2017). The help of Dr [Francesco Grussu](http://github.com/fragrussu) is also acknowledged. 
+This project received the support of a fellowship from ”la Caixa” Foundation (ID 100010434; the fellowship code is LCF/BQ/PI20/11760008) and from the 2021 Merck’s Award for the Investigation in Multiple Sclerosis (Spain). Funding from 2015 European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS) post-doctoral research fellowships and from the UK Multiple Sclerosis Society (grants 892/08 and 77/2017) are also acknowledged. The help of Dr [Francesco Grussu](http://fragrussu.github.io) is acknowledged. 

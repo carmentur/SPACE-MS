@@ -17,7 +17,7 @@ To get SPACE-MS (Linux or MacOs):
 ```
 git clone https://github.com/carmentur/SPACE-MS.git 
 ```
-3. You will now have the SPACE-MS tools ready for you in the `SPACE-MS/spacetools` folder. 
+3. You will now have the [SPACE-MS tools](https://github.com/carmentur/SPACE-MS/tree/master/spacetools) ready for you in the `SPACE-MS/spacetools` folder. 
 
 4. To check how to use a tool, simply print its manual by typing in your terminal, e.g.
 ```
@@ -28,6 +28,10 @@ in python or
 help run_nci
 ```
 in Matlab. 
+
+5. You will also find a [data folder](https://github.com/carmentur/SPACE-MS/tree/master/data) storing some synthetic lesion masks on which you will be able to try out the SPACE-MS tools, alongside some tutorials on SPACE-MS. 
+
+
 
 # SPACE-MS: list of tools
 

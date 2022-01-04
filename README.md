@@ -29,7 +29,7 @@ help run_nci
 ```
 in Matlab. 
 
-5. You will also find a [data folder](https://github.com/carmentur/SPACE-MS/tree/master/data) storing some synthetic lesion masks on which you will be able to try out the SPACE-MS tools, alongside some tutorials on SPACE-MS. 
+5. You will also find a [data folder](https://github.com/carmentur/SPACE-MS/tree/master/data) storing some synthetic lesion masks on which you will be able to try out the SPACE-MS tools, alongside some tutorials on SPACE-MS (COMING SOON!). 
 
 
 
@@ -41,7 +41,7 @@ The following tools are available:
 * [`run_nci.m`](https://github.com/carmentur/SPACE-MS/blob/master/spacetools/run_nci.m): to calculate the neruaxis caudality index (NCI) for brain lesions as described in Carmen Tur et al, NeuroImage: Clinical 2022, 33: 102904, doi: [10.1016/j.nicl.2021.102904](https://doi.org/10.1016/j.nicl.2021.102904) -- COMING SOON!
 
 
-# Do you use SPACE-MS?
+# Citations
 If you use SPACE-MS tools, please cite our work as detailed below.
 
 * If you use [`run_sspace_ms.py`](https://github.com/carmentur/SPACE-MS/blob/master/spacetools/run_sspace_ms.py) and/or [`run_nci.m`](https://github.com/carmentur/SPACE-MS/blob/master/spacetools/run_nci.m), please cite "Spatial patterns of brain lesions assessed through covariance estimations of lesional voxels in multiple sclerosis: the SPACE-MS technique". Carmen Tur et al, NeuroImage: Clinical 2022, 33: 102904, doi: [10.1016/j.nicl.2021.102904](https://doi.org/10.1016/j.nicl.2021.102904).

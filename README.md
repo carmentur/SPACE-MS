@@ -1,6 +1,6 @@
 # SPACE-MS overview 
 
-SPACE-MS is a repository of python and Matlab tools that enable spatial analysis of tissue damage distribution in multiple sclerosis. The lead developer is Dr Carmen Tur, Senior post-doctoral [La Caixa Fellow](https://becarios.fundacionlacaixa.org/en/carmen-tur-gomez-B005083) at [(Centre d'Esclerosi Múltiple de Catalunya](https://www.cem-cat.org). Please feel free to contact her regarding SPACE-MS at [<ctur@cem-cat.org>](mailto:ctur@cem-cat.org).
+SPACE-MS is a repository of python and Matlab tools that enable spatial analysis of tissue damage distribution in multiple sclerosis. The lead developer is Dr Carmen Tur, Senior post-doctoral [La Caixa Fellow](https://becarios.fundacionlacaixa.org/en/carmen-tur-gomez-B005083) at [Centre d'Esclerosi Múltiple de Catalunya](https://www.cem-cat.org). Please feel free to contact her regarding SPACE-MS at [<ctur@cem-cat.org>](mailto:ctur@cem-cat.org).
 
 # SPACE-MS dependencies
 To run the python SPACE-MS tools you will need Python 3 (for example, via [Anaconda](http://www.anaconda.com/distribution)). You will also need:

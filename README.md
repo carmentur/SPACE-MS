@@ -50,7 +50,7 @@ If you use SPACE-MS tools, please cite our work as detailed below.
 
 
 # License
-SPACE-MS tools are distributed under the BSD 2-Clause License, Copyright (c) 2020, University College London. All rights reserved (license at this [link](https://github.com/carmentur/SPACE-MS/blob/master/LICENSE.txt)).
+SPACE-MS tools are distributed under the BSD 2-Clause License, Copyright (c) 2020, 2021, 2022 University College London. All rights reserved (license at this [link](https://github.com/carmentur/SPACE-MS/blob/master/LICENSE.txt)).
 
 **The use of SPACE-MS MUST also comply with the individual licenses of all of its dependencies.**
 
